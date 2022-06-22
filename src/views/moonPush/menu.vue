@@ -136,9 +136,10 @@ export default {
           }
           .icon {
             margin-left: 16px;
-            width: 9px;
+            width: 8px;
             height: 13px;
             background: url(~@/assets/images/blueArrow.png);
+            background-repeat: no-repeat;
             background-size: contain;
           }
         }
